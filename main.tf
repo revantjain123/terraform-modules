@@ -1,9 +1,9 @@
 /*terraform {
   	backend "s3" {}
 	}*/
-provider "aws" {
+/*provider "aws" {
 	region ="eu-west-1"
-}
+}*/
 
 /*
 module "Subnet" {
